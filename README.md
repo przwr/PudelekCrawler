@@ -1,12 +1,12 @@
 # PoodleBot
 
-
 Based on Quotesbot from Scrapy
+
 This is a Scrapy project to scrape quotes from famous people from http://quotes.toscrape.com ([github repo](https://github.com/scrapinghub/spidyquotes)).
 This project is only meant for educational purposes.
 
 ## Instalation
-For scrapy look:
+For Scrapy:
 https://doc.scrapy.org/en/latest/intro/install.html#ubuntu-14-04-or-above
 
 
