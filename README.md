@@ -8,7 +8,8 @@ This project is only meant for educational purposes.
 ## Instalation
 For Scrapy:
 https://doc.scrapy.org/en/latest/intro/install.html#ubuntu-14-04-or-above
-
+pip install twisted==16.4.1
+pip install pyopenssl --upgrade
 
 ## Extracted data
 
